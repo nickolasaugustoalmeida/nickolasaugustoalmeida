@@ -28,55 +28,42 @@
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,tailwind,mysql,java,git,figma,vscode&amp;theme=dark" alt="JavaScript, TypeScript, React, Node.js, Tailwind CSS, MySQL, Java, Git, Figma e Visual Studio Code" />
+</div>
+
 ### Frontend
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+JavaScript · TypeScript · React · Tailwind CSS
 
 ### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+Node.js · MySQL · Java
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+Git · Insomnia · Figma · Visual Studio Code
 
 ---
 
-## 📊 GitHub Status
+## 📊 Minhas estatísticas
 
-<p align="center">
-  <a href="https://github.com/nickolasaugustoalmeida">
-    <img
-      height="180"
-      alt="Status do GitHub de Nickolas"
-      src="https://github-readme-stats.vercel.app/api?username=nickolasaugustoalmeida&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br&rank_icon=github"
-    />
-  </a>
-  <a href="https://github.com/nickolasaugustoalmeida?tab=repositories">
-    <img
-      height="180"
-      alt="Linguagens mais usadas por Nickolas"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickolasaugustoalmeida&layout=compact&theme=github_dark&hide_border=true&locale=pt-br&langs_count=8"
-    />
-  </a>
-</p>
+<div align="center">
+
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nickolasaugustoalmeida&amp;theme=tokyonight" alt="Resumo do perfil GitHub de Nickolas" />
+  <img height="150" width="100%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nickolasaugustoalmeida&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" alt="Linguagens mais usadas por Nickolas" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nickolasaugustoalmeida&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" alt="Gráfico de atividade do GitHub de Nickolas" />
+
+</div>
 
 ---
 
-## 🚀 Philosophy
+## 🚀 Filosofia
 
-> _"Code is not just about solving problems.  
-> It's about building solutions that scale, last, and generate real value."_
+> _"Gosto de transformar ideias em interfaces claras, sistemas organizados e soluções que fazem sentido para quem usa e para quem mantém."_
 
 ---
 
-⭐ If you like my work, consider starring a repository  
-🤝 Always open to collaborations, partnerships, and cool ideas
+🎯 Em busca de oportunidades como Desenvolvedor Frontend ou Full Stack Júnior  
+💡 Interesse em React, TypeScript, Node.js, APIs, banco de dados e experiência do usuário  
+🤝 Aberto a conversas, processos seletivos, colaborações e novos desafios
