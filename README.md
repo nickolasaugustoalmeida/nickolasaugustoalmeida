@@ -51,7 +51,7 @@ Git · Insomnia · Figma · Visual Studio Code
 <div align="center">
 
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nickolasaugustoalmeida&amp;theme=tokyonight" alt="Resumo do perfil GitHub de Nickolas" />
-  <img height="150" width="100%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nickolasaugustoalmeida&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" alt="Linguagens mais usadas por Nickolas" />
+  <img height="250" width="100%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nickolasaugustoalmeida&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" alt="Linguagens mais usadas por Nickolas" />
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nickolasaugustoalmeida&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" alt="Gráfico de atividade do GitHub de Nickolas" />
 
 </div>
